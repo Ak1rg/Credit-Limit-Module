@@ -1,0 +1,56 @@
+[
+    {
+        "id": "7b2f-4a12",
+        "name": "Иванов Иван Иванович",
+        "account": "40817810500000001234",
+        "currentLimit": 50000,
+        "requestedLimit": 150000,
+        "currency": "RUB",
+        "status": "New"
+    },
+    {
+        "id": "1c9d-8b34",
+        "name": "Константинопольский Александр Владимирович",
+        "account": "40817810500000005678",
+        "currentLimit": 1500000,
+        "requestedLimit": 2000000,
+        "currency": "RUB",
+        "status": "Approved"
+    },
+    {
+        "id": "9a5e-2f11",
+        "name": "Сидорова Анна Сергеевна",
+        "account": "40817840300000009999",
+        "currentLimit": 5000,
+        "requestedLimit": 10000,
+        "currency": "RUB",
+        "status": "Rejected"
+    },
+    {
+        "id": "3d7k-5l90",
+        "name": "Петров Максим Олегович",
+        "account": "40817810500000007777",
+        "currentLimit": 70000,
+        "requestedLimit": 120000,
+        "currency": "RUB",
+        "status": "New"
+    },
+    {
+        "id": "6h4m-2q21",
+        "name": "Кузнецова Мария Игоревна",
+        "account": "40817810500000008888",
+        "currentLimit": 900000,
+        "requestedLimit": 1200000,
+        "currency": "RUB",
+        "status": "Approved"
+    },
+    {
+        "id": "8z1x-9v45",
+        "name": "Орлов Дмитрий Павлович",
+        "account": "40817840300000006666",
+        "currentLimit": 20000,
+        "requestedLimit": 40000,
+        "currency": "RUB",
+        "status": "Rejected"
+    }
+]
